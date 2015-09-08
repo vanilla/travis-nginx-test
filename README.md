@@ -1,5 +1,7 @@
 # Travis CI Nginx Test
 
+[![Build Status](https://img.shields.io/travis/vanilla/travis-nginx-test.svg?style=flat)](https://travis-ci.org/vanilla/travis-nginx-test)
+
 A basic template for getting Nginx running on Travis CI's container based infrastructure.
 
 ## What is the purpose of this repo?
