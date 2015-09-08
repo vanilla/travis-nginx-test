@@ -4,7 +4,7 @@ A basic template for getting Nginx running on Travis CI's container based infras
 
 ## What is the purpose of this repo?
 
-Do you need to run some automated tests that rely on Nginx on Travis CI? Do you want those tests to run on the Docker
+Do you need to run some automated tests that require Nginx on Travis CI? Do you want those tests to run on the Docker
 [container-based infrastructure](http://blog.travis-ci.com/2014-12-17-faster-builds-with-container-based-infrastructure/)?
 Are you pulling your hair out trying to get this all to work? Then this repo is for you.
 
